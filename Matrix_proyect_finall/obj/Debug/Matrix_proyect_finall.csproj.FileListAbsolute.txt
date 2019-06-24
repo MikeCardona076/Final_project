@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\C#\Matrix_proyect_finall\Matrix_proyect_finall\bin\Debug\Matrix_proyect_finall.exe.config
+C:\Users\PC\Documents\C#\Matrix_proyect_finall\Matrix_proyect_finall\bin\Debug\Matrix_proyect_finall.exe
+C:\Users\PC\Documents\C#\Matrix_proyect_finall\Matrix_proyect_finall\bin\Debug\Matrix_proyect_finall.pdb
+C:\Users\PC\Documents\C#\Matrix_proyect_finall\Matrix_proyect_finall\obj\Debug\Matrix_proyect_finall.csprojAssemblyReference.cache
+C:\Users\PC\Documents\C#\Matrix_proyect_finall\Matrix_proyect_finall\obj\Debug\Matrix_proyect_finall.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\C#\Matrix_proyect_finall\Matrix_proyect_finall\obj\Debug\Matrix_proyect_finall.exe
+C:\Users\PC\Documents\C#\Matrix_proyect_finall\Matrix_proyect_finall\obj\Debug\Matrix_proyect_finall.pdb
